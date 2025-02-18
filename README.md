@@ -22,4 +22,3 @@ This starts the game immediately.
 Upon death, the game can be restarted by pressing the second button, the one below the reset button
 
 ### By Adam Carlström och Arvid Wilhelmsson
-### Group 62
