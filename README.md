@@ -21,7 +21,7 @@ This starts the game immediately.
 
 Upon death, the game can be restarted by pressing the second button, the one below the reset button
 
-## Without boar
+## Without board
 
 To play the game without the RISC-V board you still need to compile the game using make, however you can run the game by inserting the main.bin file in the following website:
 
